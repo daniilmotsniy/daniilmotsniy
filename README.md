@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋 I am Daniil, Junior Python Software Developer
+
+- 🔭 I’m currently working here on small financial pet project  
+- 🌱 I’m currently learning Python, clean code writing, cloud based technologies 
+- 👯 I’m looking to collaborate on Flask/Django
+
 
 <!--
 **daniilmotsniy/daniilmotsniy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
