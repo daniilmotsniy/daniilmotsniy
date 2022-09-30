@@ -1,4 +1,4 @@
-### Hi there 👋 I am Daniil, Junior Python Software Developer
+### Hi there 👋 I am Daniil, Python Software Developer
 
 - 🔭 I’m currently working here on small financial pet project  
 - 🌱 I’m currently learning Python, clean code writing, cloud based technologies 
