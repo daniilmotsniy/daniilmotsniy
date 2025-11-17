@@ -1,8 +1,9 @@
-### Hi there 👋 I am Daniil, Python Software Developer
+### Hi there 👋
+#### I am Daniil, Python Software Developer
 
-- 🌱 I’m currently learning Python, clean code writing, cloud based technologies 
-- 👯 I’m open for new opportunities
-- 📫 How to reach me: daniilmotsnyi@gmail.com
+- 🐍 Passionate about building reliable backend systems with Python
+- 💼 Currently learning clean code practices, software architecture, and AI technologies
+- 📫 Reach me at: daniilmotsnyi@gmail.com
 
 
 
